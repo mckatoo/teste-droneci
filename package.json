@@ -1,0 +1,22 @@
+{
+  "name": "teste-droneci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckatoo/teste-droneci.git"
+  },
+  "author": "Milton Carlos Katoo <mckatoo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mckatoo/teste-droneci/issues"
+  },
+  "homepage": "https://github.com/mckatoo/teste-droneci#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
